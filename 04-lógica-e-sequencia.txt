@@ -1,0 +1,20 @@
+4) Complete o próximo elemento e dizer a lógica
+
+a) 1, 3, 5, 7, ___
+Sequência de números ímpares. Próximo número: 9
+
+
+b) 2, 4, 8, 16, 32, 64, ____
+Sequência de potências de 2. Próximo número: 128
+
+c) 0, 1, 4, 9, 16, 25, 36, ____
+Sequência de quadrados perfeitos. Próximo número: 49
+
+d) 4, 16, 36, 64, ____
+Sequência de quadrados de números pares. Próximo número: 100
+
+e) 1, 1, 2, 3, 5, 8, ____
+Sequência de Fibonacci. Próximo número: 13
+
+f) 2, 10, 12, 16, 17, 18, 19, ____
+Sequência com todos os números que comecem com a letra "d". Próximo número: 200
